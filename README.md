@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kankhare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh1709&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh1709" /> </p>
+<p align="left"> <img src="‪C:\Users\mukes\Downloads\cogd.png" alt="mukesh1709" /> </p>
 
 - 🌱 I’m currently learning **React, SQL, python**
 

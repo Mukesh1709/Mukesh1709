@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kankhare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="‪https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UzPipZGU-sm_SnDW_fh9r9ta4tRfC1gvDlDiDTQkY63Fxsqz5B933QDHZxm7wi3hRto&usqp=CAU" alt="mukesh1709" /> </p>
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **React, SQL, python**
 

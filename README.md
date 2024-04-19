@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Mukesh Kankhare</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+
 🌱 I’m currently learning **Docker, Supabase, AWS**
 
 💬 Ask me about **Node.js, React, python, C#, Firebase... or anything**

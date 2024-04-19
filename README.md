@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kankhare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+
 🌱 I’m currently learning **Docker, Supabase, AWS**
 
 💬 Ask me about **Node.js, React, python, C#, Firebase... or anything**
@@ -19,6 +20,8 @@
   <a href="https://github.com/Mukesh1709/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mukeshkankhare95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mukeshkankhare95" height="30" width="40" /></a>
+
 </div>
 
  <hr/>
